@@ -19,9 +19,9 @@ The system consists of 6 interrelated tables:
 
 ## File Structure
 
-* 01_database_schema.sql: Definitive DDL scripts to set up database structures, data types, and primary/foreign key relationships.
-* 02_data_insertion.sql: DML scripts containing realistic dataset rows for comprehensive testing.
-* 03_analytics_tasks.sql: Solutions to 12 production-level business tasks ranging from simple CRUD operations to analytical aggregations using CTAS and Joins.
+* 01_Database_schema.sql: Definitive DDL scripts to set up database structures, data types, and primary/foreign key relationships.
+* 02_Data_insertion.sql: DML scripts containing realistic dataset rows for comprehensive testing.
+* 03_Analytics_tasks.sql: Solutions to 12 production-level business tasks ranging from simple CRUD operations to analytical aggregations using CTAS and Joins.
 
 ---
 
